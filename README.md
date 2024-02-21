@@ -10,3 +10,6 @@
 
 ## Description
 **CozeDiscordFrontend**, a chat panel based on the Vue framework, serves my other github repository [CozeDiscord](https://github.com/Nanomoa/CozeDiscord). Interfacing this project with the interface provided by CozeDiscord will allow you to use ChatGpt4 for free easily.
+
+## Tips
+The project is in the process of development and has not yet been perfected.
